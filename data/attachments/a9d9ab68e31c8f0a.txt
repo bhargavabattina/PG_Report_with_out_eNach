@@ -1,0 +1,8 @@
+[35mDEBUG   [0m asyncio:proactor_events.py:631 Using proactor: IocpProactor
+[32mINFO    [0m root:Calculation_test.py:152 --- Starting calculation Test for S18 | RuPay Credit Card | 5001-10000 | 6000 ---
+[32mINFO    [0m root:client_helper.py:8 Filling client code: TM001
+[32mINFO    [0m root:client_helper.py:12 Selecting environment: STAGING
+[32mINFO    [0m root:client_helper.py:16 Clicking Show Detail button
+[32mINFO    [0m root:client_helper.py:30 Filling payer details from config
+[32mINFO    [0m root:Calculation_test.py:189 Clicking Pay button
+[32mINFO    [0m root:Calculation_test.py:46 billAmount: 6000.00, conv_charges: 214.40, total_amount: INR6214.40

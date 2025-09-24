@@ -1,0 +1,9 @@
+[35mDEBUG   [0m asyncio:proactor_events.py:631 Using proactor: IocpProactor
+[32mINFO    [0m root:Calculation_test.py:172 --- Starting calculation Test for S24 | NEFT/RTGS | 1001-5000 | 1200 ---
+[32mINFO    [0m root:client_helper.py:8 Filling client code: TM001
+[32mINFO    [0m root:client_helper.py:12 Selecting environment: STAGING
+[32mINFO    [0m root:client_helper.py:16 Clicking Show Detail button
+[32mINFO    [0m root:client_helper.py:30 Filling payer details from config
+[32mINFO    [0m root:Calculation_test.py:209 Clicking Pay button
+[32mINFO    [0m root:Calculation_test.py:93 Handling CASH_OTHER mode with env_prefix: E-NEFT
+[32mINFO    [0m root:Calculation_test.py:47 billAmount: 1200.00, conv_charges: 64.32, total_amount: INR1264.32
